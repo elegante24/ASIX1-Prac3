@@ -1,0 +1,12 @@
+<empleados>
+
+    <empleado1>
+
+        <nombre>Josep Maria</nombre>
+        <apellido>Jujol</apellido>
+        <direccion>Carrer de la Riera de Sant Miquel</direccion>
+        <telefono>632 65 73 887</telefono>
+
+    </empleado1>
+
+</empleados>
