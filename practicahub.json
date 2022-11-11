@@ -1,0 +1,20 @@
+{"empleados":
+    {"empleado1":
+        {"nombre":"Josep Maria",
+        "apellido":"Jujol",
+        "direccion":"Carrer de la Riera de Sant Miquel",
+        "telefono":632 65 73 887
+        } 
+
+    }
+
+    {"empleado2":
+        {"nombre":"Fernando",
+        "apellido":"Alonso",
+        "direccion":"Carrer Balmes",
+        "telefono":655 54 38 922
+        }
+
+    }
+
+}

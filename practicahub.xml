@@ -9,4 +9,13 @@
 
     </empleado1>
 
+    <empleado2>
+
+        <nombre>Fernando</nombre>
+        <apellido>Alonso</apellido>
+        <direccion>Carrer Balmes</direccion>
+        <telefono>655 54 38 922</telefono>
+
+    </empleado2>
+
 </empleados>
